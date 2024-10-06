@@ -28,3 +28,5 @@
 * [The FLORES-200 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores/blob/main/flores200/README.md). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan
 
 <h3 id="multi_modal_dataset"> [5] Multi-modal Dataset </h3>
+
+* [3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset](https://aclanthology.org/2024.lrec-main.1/). Xinyu Ma, Xuebo Liu, Derek F. Wong, Jun Rao, Bei Li, Liang Ding, Lidia S. Chao, Dacheng Tao, Min Zhang (LREC-COLING 2024)
