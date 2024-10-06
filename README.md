@@ -17,6 +17,9 @@
 
 <h2 id="task_specific_dataset">Task Specific Dataset</h2> 
 <h3 id="bias_mitigation_dataset"> [1] Bias Mitigation Dataset </h3>
+
+* [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://arxiv.org/abs/2205.09209). Eric Michael Smith, Melissa Hall, Melanie Kambadur, Eleonora Presani, Adina Williams (EMNLP 2022)
+
 <h3 id="document_level_dataset"> [2] Document Level Dataset </h3>
 <h3 id="domain_adaptation_dataset"> [3] Domain Adaptation Dataset </h3>
 <h3 id="low_resources_dataset"> [4] Low-Resource Language Dataset </h3>
