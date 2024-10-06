@@ -18,4 +18,8 @@
 <h3 id="document_level_dataset"> [2] Document Level Dataset </h3>
 <h3 id="domain_adaptation_dataset"> [3] Domain Adaptation Dataset </h3>
 <h3 id="low_resources_dataset"> [4] Low-Resource Language Dataset </h3>
+
+* [The FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://aclanthology.org/2022.tacl-1.30/). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan (TACL 2022)
+* [The FLORES-200 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores/blob/main/flores200/README.md). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan
+
 <h3 id="multi_modal_dataset"> [5] Multi-modal Dataset </h3>
