@@ -1,6 +1,6 @@
 # Machine Translation Dataset List
 
-![Machine Translation Dataset](Rover%20Images/rover.jpg)
+![Machine Translation Dataset](assets/mt_figure.jpg)
 
 * [General Dataset](#general_dataset)
 * [Task Specific Dataset](#task_specific_dataset)
