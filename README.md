@@ -17,6 +17,7 @@
 * [OPUS-100 CORPUS](https://github.com/EdinburghNLP/opus-100-corpus).OPUS-100 is an English-centric multilingual corpus covering 100 languages.
 * [CCMatrix: Mining Billions of High-Quality Parallel Sentences on the WEB](https://github.com/facebookresearch/LASER/tree/main/tasks/CCMatrix).
 * [Multilingual TEDx (2021) Languages: Over 12 languages](https://www.openslr.org/100/).
+* [JParaCrawl (2020) Languages: Japanese-English](https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/).
 
 
 <h2 id="task_specific_dataset">Task Specific Dataset</h2> 
@@ -34,6 +35,8 @@
 * [The FLORES-200 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores/blob/main/flores200/README.md). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan
 * [IWSLT: A series of low-resource machine translation tasks, focusing on languages with limited parallel data.](https://iwslt.org/2021/low-resource)
 * [ParaCrawl](https://paracrawl.eu/).Multiple (over 24 European languages).
+* [Bangla-English Translation Dataset (2020)](https://huggingface.co/datasets/csebuetnlp/BanglaNMT).
+* [Resources for Bangla Natural Language Processing (BanglaNLP)](https://github.com/banglanlp/bnlp-resources?tab=readme-ov-file).
 
  
 <h3 id="multi_modal_dataset"> [5] Multi-modal Dataset </h3>
