@@ -26,6 +26,7 @@
 * [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://arxiv.org/abs/2205.09209). Eric Michael Smith, Melissa Hall, Melanie Kambadur, Eleonora Presani, Adina Williams (EMNLP 2022)
 * [The Gender-GAP (Gender-Aware Polyglot) Pipeline](https://github.com/facebookresearch/ResponsibleNLP/tree/main/gender_gap_pipeline).Muller, Benjamin and Alastruey, Belen and Hansanti, Prangthip and Kalbassi, Elahe and Ropers, Christophe and Smith, Eric Michael and Williams, Adina and Zettlemoyer, Luke and Andrews, Pierre and Costa-juss
 * [WinoMT: A dataset that evaluates gender bias in MT](https://github.com/gabrielStanovsky/mt_gender).Gabriel Stanovsky and Noah A. Smith and Luke Zettlemoyer
+* [Handcrafted Gender-Balanced MT Dataset](https://github.com/DCSaunders/gender-debias).Danielle Saunders and Bill Byrne.
 
 
 <h3 id="document_level_dataset"> [2] Document Level Dataset </h3>
