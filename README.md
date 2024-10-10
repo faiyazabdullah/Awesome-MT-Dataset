@@ -30,6 +30,7 @@
 * [The FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://aclanthology.org/2022.tacl-1.30/). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan (TACL 2022)
 * [The FLORES-200 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores/blob/main/flores200/README.md). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan
 * [IWSLT: A series of low-resource machine translation tasks, focusing on languages with limited parallel data.](https://iwslt.org/2021/low-resource)
+* [ParaCrawl](https://paracrawl.eu/v1).Multiple (over 24 European languages).
 
 <h3 id="multi_modal_dataset"> [5] Multi-modal Dataset </h3>
 
