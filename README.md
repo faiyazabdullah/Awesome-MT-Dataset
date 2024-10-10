@@ -20,6 +20,8 @@
 <h3 id="bias_mitigation_dataset"> [1] Bias Mitigation Dataset </h3>
 
 * [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://arxiv.org/abs/2205.09209). Eric Michael Smith, Melissa Hall, Melanie Kambadur, Eleonora Presani, Adina Williams (EMNLP 2022)
+* [The Gender-GAP (Gender-Aware Polyglot) Pipeline](https://github.com/facebookresearch/ResponsibleNLP/tree/main/gender_gap_pipeline).Muller, Benjamin and Alastruey, Belen and Hansanti, Prangthip and Kalbassi, Elahe and Ropers, Christophe and Smith, Eric Michael and Williams, Adina and Zettlemoyer, Luke and Andrews, Pierre and Costa-juss
+
 
 <h3 id="document_level_dataset"> [2] Document Level Dataset </h3>
 <h3 id="domain_adaptation_dataset"> [3] Domain Adaptation Dataset </h3>
