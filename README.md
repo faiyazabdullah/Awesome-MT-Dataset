@@ -16,7 +16,9 @@
 * [MLQE-PE: A Multilingual Quality Estimation and Post-Editing Dataset](https://aclanthology.org/2022.lrec-1.530/). Marina Fomicheva, Shuo Sun, Erick Fonseca, Chrysoula Zerva, Frédéric Blain, Vishrav Chaudhary, Francisco Guzmán, Nina Lopatina, Lucia Specia, André F. T. Martins (LREC 2022)
 * [OPUS-100 CORPUS](https://github.com/EdinburghNLP/opus-100-corpus).OPUS-100 is an English-centric multilingual corpus covering 100 languages.
 * [CCMatrix: Mining Billions of High-Quality Parallel Sentences on the WEB](https://github.com/facebookresearch/LASER/tree/main/tasks/CCMatrix).
-  
+* [Multilingual TEDx (2021) Languages: Over 12 languages](https://www.openslr.org/100/).
+
+
 <h2 id="task_specific_dataset">Task Specific Dataset</h2> 
 <h3 id="bias_mitigation_dataset"> [1] Bias Mitigation Dataset </h3>
 
