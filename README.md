@@ -36,13 +36,14 @@
 * [The FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://aclanthology.org/2022.tacl-1.30/). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan (TACL 2022)
 * [The FLORES-200 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores/blob/main/flores200/README.md). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan
 * [IWSLT: A series of low-resource machine translation tasks, focusing on languages with limited parallel data.](https://iwslt.org/2021/low-resource)
-* [ParaCrawl](https://paracrawl.eu/).Multiple (over 24 European languages).
-* [Bangla-English Translation Dataset (2020)](https://huggingface.co/datasets/csebuetnlp/BanglaNMT).
-* [Resources for Bangla Natural Language Processing (BanglaNLP)](https://github.com/banglanlp/bnlp-resources?tab=readme-ov-file).
+* [ParaCrawl: Web-scale parallel corpora for the languages of the EU](https://paracrawl.eu/). Miquel Esplà, Mikel Forcada, Gema Ramírez-Sánchez, Hieu Hoang (MTSummit 2019)
+* [Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation](https://huggingface.co/datasets/csebuetnlp/BanglaNMT). Tahmid Hasan, Abhik Bhattacharjee, Kazi Samin, Masum Hasan, Madhusudan Basak, M. Sohel Rahman, Rifat Shahriyar (EMNLP 2020)
+* [Resources for Bangla Natural Language Processing (BanglaNLP)](https://github.com/banglanlp/bnlp-resources?tab=readme-ov-file). Firoj Alam, Arid Hasan, Tanvirul Alam, Akib Khan, Janntatul Tajrin, Naira Khan, Shammur Absar Chowdhury (2021)
+* [Bangla Natural Language Inference (NLI) and Bangla Question Answering (QA) datasets](https://github.com/csebuetnlp/banglabert). Abhik Bhattacharjee, Tahmid Hasan, Wasi Ahmad, Kazi Samin Mubasshir, Md Saiful Islam, Anindya Iqbal, M. Sohel Rahman, Rifat Shahriyar (EMNLP 2021)
 
  
 <h3 id="multi_modal_dataset"> [5] Multi-modal Dataset </h3>
 
 * [3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset](https://aclanthology.org/2024.lrec-main.1/). Xinyu Ma, Xuebo Liu, Derek F. Wong, Jun Rao, Bei Li, Liang Ding, Lidia S. Chao, Dacheng Tao, Min Zhang (LREC-COLING 2024)
-* [Multi30K is a large-scale multilingual multimodal dataset](https://github.com/multi30k/dataset?tab=readme-ov-file).Elliott, Desmond	and Frank, Stellaand Sima'an, Khaliland Specia, Lucia.
-* [The Flickr30k dataset is a popular benchmark for sentence-based picture portrayal](https://www.kaggle.com/datasets/eeshawn/flickr30k).Peter Young, Alice Lai, Micah Hodosh, Julia Hockenmaier.
+* [Multi30K is a large-scale multilingual multimodal dataset](https://github.com/multi30k/dataset?tab=readme-ov-file). Elliott, Desmond	and Frank, Stellaand Sima'an, Khaliland Specia, Lucia (ACL 2017)
+* [The Flickr30k dataset is a popular benchmark for sentence-based picture portrayal](https://www.kaggle.com/datasets/eeshawn/flickr30k). Peter Young, Alice Lai, Micah Hodosh, Julia Hockenmaier (ACL)
