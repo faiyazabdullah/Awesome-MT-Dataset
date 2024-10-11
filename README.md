@@ -65,6 +65,11 @@
 * [Multilingual TEDx Corpus for Speech Recognition and Translation](https://www.openslr.org/100/). Elizabeth Salesky, Matthew Wiesner, Jacob Bremerman, Roldano Cattoni, Matteo Negri, Marco Turchi, Douglas W. Oard, Matt Post (Interspeech 2021)
 * [VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation](https://github.com/facebookresearch/voxpopuli). Changhan Wang, Morgane Riviere, Ann Lee, Anne Wu, Chaitanya Talnikar, Daniel Haziza, Mary Williamson, Juan Pino, Emmanuel Dupoux (ACL-IJCNLP 2021)
 
+<h3 id="sentiment_and_tone_analysis_dataset"> [5] Sentiment and Tone Analysis Dataset </h3>
+
+* [IndiSentiment140: Sentiment Analysis Dataset for Indian Languages with Emphasis on Low-Resource Languages using Machine Translation](https://www.iitg.ac.in/cseweb/osint/resourcess.php). Saurabh Kumar, Ranbir Sanasam, Sukumar Nandi (NAACL 2024)
+* [Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data](https://github.com/cadia-lvl/sentiment-analysis). Ólafur A. Jóhannsson, Birkir H. Arndal, Eysteinn Ö. Jónsson, Stefan Olafsson, Hrafn Loftsson (SIGUL-WS 2024)
+
 <h2 id="tools">Tools</h2> 
 
 * [Machine Translation](https://machinetranslate.org/parallel-data)
@@ -78,4 +83,7 @@
 * [MaCoCu](https://macocu.eu/)
 
 <h2 id="findings">Findings</h2>
+Some of the future areas for the dataset development for machine translation could be - 
+**[1] Conversational and Informal Language Datasets**
+**[2] Sentiment and Tone Analysis Datasets**
 
