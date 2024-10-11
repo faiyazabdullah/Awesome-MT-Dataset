@@ -2,6 +2,8 @@
 
 ![Machine Translation Dataset](assets/mt_figure.jpg)
 
+<h2>Table of Contents</h2>
+
 * [General Dataset](#general_dataset)
 * [Task Specific Dataset](#task_specific_dataset)
   * [Bias Mitigation Dataset](#bias_mitigation_dataset)
@@ -9,6 +11,7 @@
   * [Domain Adaptation Dataset](#domain_adaptation_dataset)
   * [Low-Resource Language Dataset](#low_resources_dataset)
   * [Multi-modal Dataset](#multi_modal_dataset)
+* [Findings](#findings)
 
 <h2 id="general_dataset">General Dataset</h2> 
 
@@ -56,3 +59,5 @@
 * [Multi30K is a large-scale multilingual multimodal dataset](https://github.com/multi30k/dataset?tab=readme-ov-file). Elliott, Desmond	and Frank, Stellaand Sima'an, Khaliland Specia, Lucia (ACL 2017)
 * [The Flickr30k dataset is a popular benchmark for sentence-based picture portrayal](https://www.kaggle.com/datasets/eeshawn/flickr30k). Peter Young, Alice Lai, Micah Hodosh, Julia Hockenmaier (ACL)
 * [Multilingual TEDx Corpus for Speech Recognition and Translation](https://www.openslr.org/100/). Elizabeth Salesky, Matthew Wiesner, Jacob Bremerman, Roldano Cattoni, Matteo Negri, Marco Turchi, Douglas W. Oard, Matt Post (Interspeech 2021)
+
+<h2 id="findings">Findings</h2> 
