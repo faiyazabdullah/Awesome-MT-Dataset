@@ -80,7 +80,7 @@
 * [Metatext](https://metatext.io/datasets-list/translation-task)
 * [HPLT: High Performance Language Technologies](https://hplt-project.org/)
 * [Hugging Face](https://huggingface.co/datasets?task_categories=task_categories:translation)
-* [MTData](https://huggingface.co/datasets?task_categories=task_categories:translation)
+* [MTData](https://github.com/thammegowda/mtdata)
 * [Common Voice](https://commonvoice.mozilla.org/en/datasets)
 * [MaCoCu](https://macocu.eu/)
 
