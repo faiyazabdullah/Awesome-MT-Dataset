@@ -37,7 +37,7 @@
 
 <h3 id="domain_adaptation_dataset"> [3] Domain Adaptation Dataset </h3>
 
-
+* [FGraDA: A Dataset and Benchmark for Fine-Grained Domain Adaptation in Machine Translation](https://github.com/NJUNLP/FGraDA?tab=readme-ov-file). Wenhao Zhu, Shujian Huang, Tong Pu, Pingxuan Huang, Xu Zhang, Jian Yu, Wei Chen, Yanfeng Wang, Jiajun Chen (LREC 2022)
 
 <h3 id="low_resources_dataset"> [4] Low-Resource Language Dataset </h3>
 
