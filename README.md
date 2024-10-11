@@ -1,6 +1,6 @@
 # Machine Translation Dataset List
 
-![Machine Translation Dataset](assets/mt_figure.jpg)
+![Machine Translation Dataset](assets/mt_figure.png)
 
 <h2>Table of Contents</h2>
 
