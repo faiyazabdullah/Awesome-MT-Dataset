@@ -42,6 +42,7 @@
 * [Analysing concatenation approaches to document-level NMT in two different domains](https://github.com/Helsinki-NLP/doclevel-MT-benchmark?tab=readme-ov-file). Scherrer, Yves and Tiedemann, Jorg and Loaiciga, Sharid (ACL 2019)
 * [Document-Level Machine Translation with Large Language Models](https://github.com/longyuewangdcu/Document-MT-LLM). Wang, Longyue and Lyu, Chenyang and Ji, Tianbo and Zhang, Zhirui and Yu, Dian and Shi, Shuming and Tu, Zhaopeng (arXiv 2023)
 * [Document-Level Neural Machine Translation with Hierarchical Attention Networks](https://github.com/idiap/HAN_NMT?tab=readme-ov-file). Lesly Miculicich, Dhananjay Ram, Nikolaos Pappas, James Henderson (EMNLP 2018)
+* [Document-Level Machine Translation with Large-Scale Public Parallel Corpora](https://github.com/Proyag/ParaCrawl-Context). Proyag Pal, Alexandra Birch, Kenneth Heafield (ACL Long 2024)
 
 <h3 id="domain_adaptation_dataset"> [3] Domain Adaptation Dataset </h3>
 
