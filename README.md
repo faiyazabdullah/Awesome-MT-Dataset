@@ -11,6 +11,7 @@
   * [Domain Adaptation Dataset](#domain_adaptation_dataset)
   * [Low-Resource Language Dataset](#low_resources_dataset)
   * [Multi-modal Dataset](#multi_modal_dataset)
+* [Tools](#tools)
 * [Findings](#findings)
 
 <h2 id="general_dataset">General Dataset</h2> 
@@ -21,6 +22,8 @@
 * [CCMatrix: Mining Billions of High-Quality Parallel Sentences on the WEB](https://github.com/facebookresearch/LASER/tree/main/tasks/CCMatrix). Holger Schwenk, Guillaume Wenzek, Sergey Edunov, Edouard Grave, Armand Joulin (ACL-IJCNLP 2021)
 * [JParaCrawl: A Large-scale English-Japanese Parallel Corpus](https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/). Makoto Morishita, Katsuki Chousa, Jun Suzuki, Masaaki Nagata (LREC 2022)
 * [WIT3: Web Inventory of Transcribed and Translated Talks](https://wit3.fbk.eu/). Mauro Cettolo, Christian Girardi, Marcello Federico (EAMT 2012)
+* [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](https://github.com/MiniXC/opensubtitles-dataloader?tab=readme-ov-file). P. Lison, J. Tiedemann (LREC 2016)
+* [A New Massive Multilingual Dataset for High-Performance Language Technologies](https://github.com/hplt-project). Ona de Gibert, Graeme Nail, Nikolay Arefyev, Marta Bañón, Jelmer van der Linde, Shaoxiong Ji, Jaume Zaragoza-Bernabeu, Mikko Aulamo, Gema Ramírez-Sánchez, Andrey Kutuzov, Sampo Pyysalo, Stephan Oepen, Jörg Tiedemann (LREC-COLING 2024)
 
 
 <h2 id="task_specific_dataset">Task Specific Dataset</h2> 
@@ -59,5 +62,13 @@
 * [Multi30K is a large-scale multilingual multimodal dataset](https://github.com/multi30k/dataset?tab=readme-ov-file). Elliott, Desmond	and Frank, Stellaand Sima'an, Khaliland Specia, Lucia (ACL 2017)
 * [The Flickr30k dataset is a popular benchmark for sentence-based picture portrayal](https://www.kaggle.com/datasets/eeshawn/flickr30k). Peter Young, Alice Lai, Micah Hodosh, Julia Hockenmaier (ACL)
 * [Multilingual TEDx Corpus for Speech Recognition and Translation](https://www.openslr.org/100/). Elizabeth Salesky, Matthew Wiesner, Jacob Bremerman, Roldano Cattoni, Matteo Negri, Marco Turchi, Douglas W. Oard, Matt Post (Interspeech 2021)
+
+<h2 id="tools">Tools</h2> 
+
+* [Opus](https://opus.nlpl.eu/)
+* [Metatext](https://metatext.io/datasets-list/translation-task)
+* [HPLT: High Performance Language Technologies](https://hplt-project.org/)
+* [Hugging Face](https://huggingface.co/datasets?task_categories=task_categories:translation)
+* [MTData](https://huggingface.co/datasets?task_categories=task_categories:translation)
 
 <h2 id="findings">Findings</h2> 
