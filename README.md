@@ -11,6 +11,7 @@
   * [Domain Adaptation Dataset](#domain_adaptation_dataset)
   * [Low-Resource Language Dataset](#low_resources_dataset)
   * [Multi-modal Dataset](#multi_modal_dataset)
+  * [Sentiment and Tone Analysis Dataset](#sentiment_and_tone_analysis_dataset)
 * [Tools](#tools)
 * [Findings](#findings)
 
@@ -83,7 +84,7 @@
 * [MaCoCu](https://macocu.eu/)
 
 <h2 id="findings">Findings</h2>
-Some of the future areas for the dataset development for machine translation could be - 
-**[1] Conversational and Informal Language Datasets**
-**[2] Sentiment and Tone Analysis Datasets**
 
+Some of the future areas for the dataset development for machine translation could be - 
+- **Conversational and Informal Language Datasets**
+- **Sentiment and Tone Analysis Datasets**
