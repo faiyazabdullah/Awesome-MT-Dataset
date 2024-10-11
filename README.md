@@ -15,8 +15,9 @@
 * [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://arxiv.org/pdf/1907.05791). Holger Schwenk, Vishrav Chaudhary, Shuo Sun, Hongyu Gong, Francisco Guzmán (EACL 2021)
 * [MLQE-PE: A Multilingual Quality Estimation and Post-Editing Dataset](https://aclanthology.org/2022.lrec-1.530/). Marina Fomicheva, Shuo Sun, Erick Fonseca, Chrysoula Zerva, Frédéric Blain, Vishrav Chaudhary, Francisco Guzmán, Nina Lopatina, Lucia Specia, André F. T. Martins (LREC 2022)
 * [OPUS-100 CORPUS: Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation](https://github.com/EdinburghNLP/opus-100-corpus). Biao Zhang, Philip Williams, Ivan Titov, Rico Sennrich (ACL 2020)
-* [CCMatrix: Mining Billions of High-Quality Parallel Sentences on the WEB](https://github.com/facebookresearch/LASER/tree/main/tasks/CCMatrix). Holger Schwenk, Guillaume Wenzek, Sergey Edunov, Edouard Grave and Armand Joulin (ACL-IJCNLP 2021)
+* [CCMatrix: Mining Billions of High-Quality Parallel Sentences on the WEB](https://github.com/facebookresearch/LASER/tree/main/tasks/CCMatrix). Holger Schwenk, Guillaume Wenzek, Sergey Edunov, Edouard Grave, Armand Joulin (ACL-IJCNLP 2021)
 * [JParaCrawl: A Large-scale English-Japanese Parallel Corpus](https://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/). Makoto Morishita, Katsuki Chousa, Jun Suzuki, Masaaki Nagata (LREC 2022)
+* [WIT3: Web Inventory of Transcribed and Translated Talks](https://wit3.fbk.eu/). Mauro Cettolo, Christian Girardi, Marcello Federico (EAMT 2012)
 
 
 <h2 id="task_specific_dataset">Task Specific Dataset</h2> 
@@ -24,12 +25,15 @@
 
 * [“I’m sorry to hear that”: Finding New Biases in Language Models with a Holistic Descriptor Dataset](https://arxiv.org/abs/2205.09209). Eric Michael Smith, Melissa Hall, Melanie Kambadur, Eleonora Presani, Adina Williams (EMNLP 2022)
 * [The Gender-GAP Pipeline: A Gender-Aware Polyglot Pipeline for Gender Characterisation in 55 Languages](https://github.com/facebookresearch/ResponsibleNLP/tree/main/gender_gap_pipeline). Muller, Benjamin and Alastruey, Belen and Hansanti, Prangthip and Kalbassi, Elahe and Ropers, Christophe and Smith, Eric Michael and Williams, Adina and Zettlemoyer, Luke and Andrews, Pierre and Costa-juss (WMT 2023)
-* [WinoMT: A dataset that evaluates gender bias in MT](https://github.com/gabrielStanovsky/mt_gender). Gabriel Stanovsky, Noah A. Smith and Luke Zettlemoyer (ACL 2019)
+* [WinoMT: A dataset that evaluates gender bias in MT](https://github.com/gabrielStanovsky/mt_gender). Gabriel Stanovsky, Noah A. Smith, Luke Zettlemoyer (ACL 2019)
 * [Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem](https://github.com/DCSaunders/gender-debias). Danielle Saunders, Bill Byrne (ACL 2020)
 
 <h3 id="document_level_dataset"> [2] Document Level Dataset </h3>
 
-
+* [M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation](https://github.com/amazon-science/m3t-multi-modal-translation-bench). Benjamin Hsu, Xiaoyu Liu, Huayang Li, Yoshinari Fujinuma, Maria Nadejde, Xing Niu, Ron Litman, Yair Kittenplon, Raghavendra Pappagari (NAACL 2024)
+* [Analysing concatenation approaches to document-level NMT in two different domains](https://github.com/Helsinki-NLP/doclevel-MT-benchmark?tab=readme-ov-file). Scherrer, Yves and Tiedemann, Jorg and Loaiciga, Sharid (ACL 2019)
+* [Document-Level Machine Translation with Large Language Models](https://github.com/longyuewangdcu/Document-MT-LLM). Wang, Longyue and Lyu, Chenyang and Ji, Tianbo and Zhang, Zhirui and Yu, Dian and Shi, Shuming and Tu, Zhaopeng (arXiv 2023)
+* [Document-Level Neural Machine Translation with Hierarchical Attention Networks](https://github.com/idiap/HAN_NMT?tab=readme-ov-file). Lesly Miculicich, Dhananjay Ram, Nikolaos Pappas, James Henderson (EMNLP 2018)
 
 <h3 id="domain_adaptation_dataset"> [3] Domain Adaptation Dataset </h3>
 
