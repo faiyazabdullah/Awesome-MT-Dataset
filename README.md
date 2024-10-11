@@ -4,7 +4,7 @@
 
 <h2>Table of Contents</h2>
 
-* [General Dataset](#general_dataset)
+* [General Purpose Dataset](#general_dataset)
 * [Task Specific Dataset](#task_specific_dataset)
   * [Bias Mitigation Dataset](#bias_mitigation_dataset)
   * [Document Level Dataset](#document_level_dataset)
@@ -14,7 +14,7 @@
 * [Tools](#tools)
 * [Findings](#findings)
 
-<h2 id="general_dataset">General Dataset</h2> 
+<h2 id="general_dataset">General Purpose Dataset</h2> 
 
 * [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://arxiv.org/pdf/1907.05791). Holger Schwenk, Vishrav Chaudhary, Shuo Sun, Hongyu Gong, Francisco Guzmán (EACL 2021)
 * [MLQE-PE: A Multilingual Quality Estimation and Post-Editing Dataset](https://aclanthology.org/2022.lrec-1.530/). Marina Fomicheva, Shuo Sun, Erick Fonseca, Chrysoula Zerva, Frédéric Blain, Vishrav Chaudhary, Francisco Guzmán, Nina Lopatina, Lucia Specia, André F. T. Martins (LREC 2022)
@@ -24,6 +24,7 @@
 * [WIT3: Web Inventory of Transcribed and Translated Talks](https://wit3.fbk.eu/). Mauro Cettolo, Christian Girardi, Marcello Federico (EAMT 2012)
 * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](https://github.com/MiniXC/opensubtitles-dataloader?tab=readme-ov-file). P. Lison, J. Tiedemann (LREC 2016)
 * [A New Massive Multilingual Dataset for High-Performance Language Technologies](https://github.com/hplt-project). Ona de Gibert, Graeme Nail, Nikolay Arefyev, Marta Bañón, Jelmer van der Linde, Shaoxiong Ji, Jaume Zaragoza-Bernabeu, Mikko Aulamo, Gema Ramírez-Sánchez, Andrey Kutuzov, Sampo Pyysalo, Stephan Oepen, Jörg Tiedemann (LREC-COLING 2024)
+* [NTREX-128 – News Test References for MT Evaluation of 128 Languages](https://github.com/MicrosoftTranslator/NTREX). Christian Federmann, Tom Kocmi, Ying Xin (ACL 2022)
 
 
 <h2 id="task_specific_dataset">Task Specific Dataset</h2> 
@@ -44,6 +45,7 @@
 <h3 id="domain_adaptation_dataset"> [3] Domain Adaptation Dataset </h3>
 
 * [FGraDA: A Dataset and Benchmark for Fine-Grained Domain Adaptation in Machine Translation](https://github.com/NJUNLP/FGraDA?tab=readme-ov-file). Wenhao Zhu, Shujian Huang, Tong Pu, Pingxuan Huang, Xu Zhang, Jian Yu, Wei Chen, Yanfeng Wang, Jiajun Chen (LREC 2022)
+* [Domain Adaptation of Neural Machine Translation by Lexicon Induction](https://github.com/JunjieHu/dali?tab=readme-ov-file). Junjie Hu, Mengzhou Xia, Graham Neubig, Jaime Carbonell (ACL 2019)
 
 <h3 id="low_resources_dataset"> [4] Low-Resource Language Dataset </h3>
 
@@ -54,7 +56,6 @@
 * [Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation](https://huggingface.co/datasets/csebuetnlp/BanglaNMT). Tahmid Hasan, Abhik Bhattacharjee, Kazi Samin, Masum Hasan, Madhusudan Basak, M. Sohel Rahman, Rifat Shahriyar (EMNLP 2020)
 * [Resources for Bangla Natural Language Processing (BanglaNLP)](https://github.com/banglanlp/bnlp-resources?tab=readme-ov-file). Firoj Alam, Arid Hasan, Tanvirul Alam, Akib Khan, Janntatul Tajrin, Naira Khan, Shammur Absar Chowdhury (2021)
 * [Bangla Natural Language Inference (NLI) and Bangla Question Answering (QA) datasets](https://github.com/csebuetnlp/banglabert). Abhik Bhattacharjee, Tahmid Hasan, Wasi Ahmad, Kazi Samin Mubasshir, Md Saiful Islam, Anindya Iqbal, M. Sohel Rahman, Rifat Shahriyar (EMNLP 2021)
-
  
 <h3 id="multi_modal_dataset"> [5] Multi-modal Dataset </h3>
 
@@ -62,13 +63,19 @@
 * [Multi30K is a large-scale multilingual multimodal dataset](https://github.com/multi30k/dataset?tab=readme-ov-file). Elliott, Desmond	and Frank, Stellaand Sima'an, Khaliland Specia, Lucia (ACL 2017)
 * [The Flickr30k dataset is a popular benchmark for sentence-based picture portrayal](https://www.kaggle.com/datasets/eeshawn/flickr30k). Peter Young, Alice Lai, Micah Hodosh, Julia Hockenmaier (ACL)
 * [Multilingual TEDx Corpus for Speech Recognition and Translation](https://www.openslr.org/100/). Elizabeth Salesky, Matthew Wiesner, Jacob Bremerman, Roldano Cattoni, Matteo Negri, Marco Turchi, Douglas W. Oard, Matt Post (Interspeech 2021)
+* [VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation](https://github.com/facebookresearch/voxpopuli). Changhan Wang, Morgane Riviere, Ann Lee, Anne Wu, Chaitanya Talnikar, Daniel Haziza, Mary Williamson, Juan Pino, Emmanuel Dupoux (ACL-IJCNLP 2021)
 
 <h2 id="tools">Tools</h2> 
 
+* [Machine Translation](https://machinetranslate.org/parallel-data)
 * [Opus](https://opus.nlpl.eu/)
+* [CLARIN](https://www.clarin.eu/resource-families/parallel-corpora)
 * [Metatext](https://metatext.io/datasets-list/translation-task)
 * [HPLT: High Performance Language Technologies](https://hplt-project.org/)
 * [Hugging Face](https://huggingface.co/datasets?task_categories=task_categories:translation)
 * [MTData](https://huggingface.co/datasets?task_categories=task_categories:translation)
+* [Common Voice](https://commonvoice.mozilla.org/en/datasets)
+* [MaCoCu](https://macocu.eu/)
 
-<h2 id="findings">Findings</h2> 
+<h2 id="findings">Findings</h2>
+
