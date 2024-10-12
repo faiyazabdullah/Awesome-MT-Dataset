@@ -12,6 +12,7 @@
   * [Low-Resource Language Dataset](#low_resources_dataset)
   * [Multi-modal Dataset](#multi_modal_dataset)
   * [Sentiment and Tone Analysis Dataset](#sentiment_and_tone_analysis_dataset)
+* [Benchmark](#benchmark)
 * [Tools](#tools)
 * [Findings](#findings)
 
@@ -71,6 +72,10 @@
 
 * [IndiSentiment140: Sentiment Analysis Dataset for Indian Languages with Emphasis on Low-Resource Languages using Machine Translation](https://www.iitg.ac.in/cseweb/osint/resourcess.php). Saurabh Kumar, Ranbir Sanasam, Sukumar Nandi (NAACL 2024)
 * [Evaluating Icelandic Sentiment Analysis Models Trained on Translated Data](https://github.com/cadia-lvl/sentiment-analysis). Ólafur A. Jóhannsson, Birkir H. Arndal, Eysteinn Ö. Jónsson, Stefan Olafsson, Hrafn Loftsson (SIGUL-WS 2024)
+
+<h2 id="benchmark">Benchmark</h2>
+
+
 
 <h2 id="tools">Tools</h2> 
 
