@@ -75,7 +75,7 @@
 
 <h2 id="benchmark">Benchmarks</h2>
 
-* [A Benchmark for Learning to Translate a New Language from One Grammar Book](https://lukemelas.github.io/mtob/)
+* [A Benchmark for Learning to Translate a New Language from One Grammar Book](https://lukemelas.github.io/mtob/). Garrett Tanzer, Mirac Suzgun, Eline Visser, Dan Jurafsky, Luke Melas-Kyriazi (ICLR 2024)
 
 <h2 id="tools">Tools</h2> 
 
