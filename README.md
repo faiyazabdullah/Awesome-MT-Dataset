@@ -39,7 +39,6 @@
 
 <h3 id="document_level_dataset"> [2] Document Level Datasets </h3>
 
-* [M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation](https://github.com/amazon-science/m3t-multi-modal-translation-bench). Benjamin Hsu, Xiaoyu Liu, Huayang Li, Yoshinari Fujinuma, Maria Nadejde, Xing Niu, Ron Litman, Yair Kittenplon, Raghavendra Pappagari (NAACL 2024)
 * [Analysing concatenation approaches to document-level NMT in two different domains](https://github.com/Helsinki-NLP/doclevel-MT-benchmark?tab=readme-ov-file). Scherrer, Yves and Tiedemann, Jorg and Loaiciga, Sharid (ACL 2019)
 * [Document-Level Machine Translation with Large Language Models](https://github.com/longyuewangdcu/Document-MT-LLM). Wang, Longyue and Lyu, Chenyang and Ji, Tianbo and Zhang, Zhirui and Yu, Dian and Shi, Shuming and Tu, Zhaopeng (arXiv 2023)
 * [Document-Level Neural Machine Translation with Hierarchical Attention Networks](https://github.com/idiap/HAN_NMT?tab=readme-ov-file). Lesly Miculicich, Dhananjay Ram, Nikolaos Pappas, James Henderson (EMNLP 2018)
@@ -47,13 +46,10 @@
 
 <h3 id="domain_adaptation_dataset"> [3] Domain Adaptation Datasets </h3>
 
-* [FGraDA: A Dataset and Benchmark for Fine-Grained Domain Adaptation in Machine Translation](https://github.com/NJUNLP/FGraDA?tab=readme-ov-file). Wenhao Zhu, Shujian Huang, Tong Pu, Pingxuan Huang, Xu Zhang, Jian Yu, Wei Chen, Yanfeng Wang, Jiajun Chen (LREC 2022)
 * [Domain Adaptation of Neural Machine Translation by Lexicon Induction](https://github.com/JunjieHu/dali?tab=readme-ov-file). Junjie Hu, Mengzhou Xia, Graham Neubig, Jaime Carbonell (ACL 2019)
 
 <h3 id="low_resources_dataset"> [4] Low-Resource Language Datasets </h3>
 
-* [The FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://aclanthology.org/2022.tacl-1.30/). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan (TACL 2022)
-* [The FLORES-200 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores/blob/main/flores200/README.md). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan
 * [IWSLT: A series of low-resource machine translation tasks, focusing on languages with limited parallel data.](https://iwslt.org/2021/low-resource)
 * [ParaCrawl: Web-scale parallel corpora for the languages of the EU](https://paracrawl.eu/). Miquel Esplà, Mikel Forcada, Gema Ramírez-Sánchez, Hieu Hoang (MTSummit 2019)
 * [Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation](https://huggingface.co/datasets/csebuetnlp/BanglaNMT). Tahmid Hasan, Abhik Bhattacharjee, Kazi Samin, Masum Hasan, Madhusudan Basak, M. Sohel Rahman, Rifat Shahriyar (EMNLP 2020)
@@ -75,7 +71,12 @@
 
 <h2 id="benchmark">Benchmarks</h2>
 
+* [The FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://aclanthology.org/2022.tacl-1.30/). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan (TACL 2022)
+* [The FLORES-200 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores/blob/main/flores200/README.md). Naman Goyal, Cynthia Gao, Vishrav Chaudhary, Peng-Jen Chen, Guillaume Wenzek, Da Ju, Sanjana Krishnan, Marc’Aurelio Ranzato, Francisco Guzmán, Angela Fan
 * [A Benchmark for Learning to Translate a New Language from One Grammar Book](https://lukemelas.github.io/mtob/). Garrett Tanzer, Mirac Suzgun, Eline Visser, Dan Jurafsky, Luke Melas-Kyriazi (ICLR 2024)
+* [A Benchmark for Evaluating Machine Translation Metrics on Dialects Without Standard Orthography](https://github.com/textshuttle/dialect_eval). Noëmi Aepli, Chantal Amrhein, Florian Schottmann, Rico Sennrich (WMT 2023)
+* [M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation](https://github.com/amazon-science/m3t-multi-modal-translation-bench). Benjamin Hsu, Xiaoyu Liu, Huayang Li, Yoshinari Fujinuma, Maria Nadejde, Xing Niu, Ron Litman, Yair Kittenplon, Raghavendra Pappagari (NAACL 2024)
+* [FGraDA: A Dataset and Benchmark for Fine-Grained Domain Adaptation in Machine Translation](https://github.com/NJUNLP/FGraDA?tab=readme-ov-file). Wenhao Zhu, Shujian Huang, Tong Pu, Pingxuan Huang, Xu Zhang, Jian Yu, Wei Chen, Yanfeng Wang, Jiajun Chen (LREC 2022)
 
 <h2 id="tools">Tools</h2> 
 
