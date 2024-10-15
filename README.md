@@ -95,4 +95,4 @@
 
 Some of the future areas for the dataset development for machine translation could be - 
 - **Conversational and Informal Language Datasets**
-- **Sentiment and Tone Analysis Datasets**
+- **Tone Analysis Datasets**
