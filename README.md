@@ -78,6 +78,7 @@
 <h2 id="benchmark">Benchmarks</h2>
 
 * [Machine Translation Benchmarks](https://paperswithcode.com/task/machine-translation)
+* [UniTE: Unified Translation Evaluation](https://arxiv.org/abs/2204.13346). Yu Wan, Dayiheng Liu, Baosong Yang, Haibo Zhang, Boxing Chen, Derek F. Wong, Lidia S. Chao. (ACL 2022)
 
 <h2 id="tools">Tools</h2> 
 
